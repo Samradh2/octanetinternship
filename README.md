@@ -1,0 +1,1 @@
+Crafted a user-friendly To-Do List application using HTML, CSS, and JavaScript for dynamic and responsive task management. Implemented features for adding, editing, and deleting tasks, with local storage integration for data persistence. Designed with simplicity and efficiency in mind, ensuring seamless task organization and prioritization
